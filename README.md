@@ -1,4 +1,4 @@
-# Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models
+# Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models (2025)
 
 This repository serves as the **overview and entry point** for the code and experiments presented in our paper:
 
