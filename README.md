@@ -10,11 +10,11 @@ Our goal is to provide **full reproducibility** of all experiments in the paper.
 
 This repository does not contain code for a specific method itself but serves as a central hub linking to the repositories of all compared approaches:
 
-### Recently Proposed Methods
+### Methods
 - [🔗 RAPTOR](https://github.com/Lightnz/raptor-eval) -TODO: change to new repo
 - [🔗 ReadAgent](https://github.com/Lightnz/read-agent)
 
-### RAG Baselines
+### Baselines
 - [🔗 Vanilla RAG](https://github.com/Lightnz/vanilla-rag)
 - [🔗 DOS RAG](https://github.com/Lightnz/dos-rag)
 
