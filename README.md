@@ -1,3 +1,5 @@
+![head_image](./head_image.jpg)
+
 # Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models (2025)
 
 This repository serves as the **overview and entry point** for the code and experiments presented in our paper:
@@ -6,11 +8,9 @@ This repository serves as the **overview and entry point** for the code and expe
 
 Our goal is to provide **full reproducibility** of all experiments in the paper. Below, you will find links to the individual repositories for each method, along with instructions on how to set up the experiment framework.
 
-## 📌 Overview of Implemented Methods
+## 📌 Repo-Overview
 
-This repository does not contain code for a specific method itself but serves as a central hub linking to the repositories of all compared approaches:
-
-### Methods
+### Analyzed Methods
 - [🔗 RAPTOR](https://github.com/Lightnz/raptor-eval) -TODO: change to new repo
 - [🔗 ReadAgent](https://github.com/Lightnz/read-agent)
 
@@ -38,3 +38,7 @@ If you use this work in your research, please cite our paper:
 ## 🛠️ Questions & Contributions
 
 We welcome any feedback or contributions. If you have questions or issues, feel free to open an Issue in the respective method's repository.
+
+## Credits
+
+Head image created with [DALL·E](https://openai.com/dall-e).
