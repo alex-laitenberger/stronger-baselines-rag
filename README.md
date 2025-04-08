@@ -11,8 +11,8 @@ Our goal is to provide **full reproducibility** of all experiments in the paper.
 ## 📌 Repo-Overview
 
 ### Analyzed Methods
-- [🔗 RAPTOR](https://github.com/Lightnz/raptor-eval) -TODO: change to new repo
-- [🔗 ReadAgent](https://github.com/Lightnz/read-agent)
+- [🔗 RAPTOR](https://github.com/Lightnz/raptor-eval)
+- [🔗 ReadAgent](https://github.com/Lightnz/read-agent-eval)
 
 ### Baselines
 - [🔗 Vanilla RAG](https://github.com/Lightnz/vanilla-rag)
