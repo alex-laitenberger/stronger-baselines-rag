@@ -4,7 +4,7 @@
 
 This repository serves as the **overview and entry point** for the code and experiments presented in our paper:
 
-**Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models**
+Alex Laitenberger, Christopher D. Manning and Nelson F. Liu. 2025. **Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models**
 
 Our goal is to provide **full reproducibility** of all experiments in the paper. Below, you will find links to the individual repositories for each method, along with instructions on how to set up the experiment framework.
 
