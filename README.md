@@ -15,8 +15,8 @@ Our goal is to provide **full reproducibility** of all experiments in the paper.
 - [🔗 ReadAgent](https://github.com/Lightnz/read-agent-eval)
 
 ### Baselines
-- [🔗 Vanilla RAG](https://github.com/Lightnz/vanilla-rag)
-- [🔗 DOS RAG](https://github.com/Lightnz/dos-rag)
+- [🔗 Vanilla RAG](https://github.com/Lightnz/vanilla-rag-eval)
+- [🔗 DOS RAG](https://github.com/Lightnz/dos-rag-eval)
 
 
 ## 🏗️ Reproducing the Experiments
