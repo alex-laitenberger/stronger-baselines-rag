@@ -4,13 +4,13 @@
 
 This repository serves as the **overview and entry point** for the code and experiments presented in our paper:
 
-Alex Laitenberger, Christopher D. Manning and Nelson F. Liu. 2025. **Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models**
+Alex Laitenberger, Christopher D. Manning and Nelson F. Liu. 2025. **Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models**  - [Paper](https://www.arxiv.org/abs/2506.03989)
 
 Our goal is to provide **full reproducibility** of all experiments in the paper. Below, you will find links to the individual repositories for each method, along with instructions on how to set up the experiment framework.
 
 ## 📌 Repo-Overview
 
-### Analyzed Methods
+### Multi-Stage Methods
 - [🔗 RAPTOR](https://github.com/Lightnz/raptor-eval)
 - [🔗 ReadAgent](https://github.com/Lightnz/read-agent-eval)
 
@@ -31,9 +31,23 @@ We aim to make our research fully transparent and reproducible for anyone intere
 
 ## 📜 Citation
 
-If you use this work in your research, please cite our paper:
+Please cite our paper if you find it useful in your research.
 
-    Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models
+```
+Alex Laitenberger, Christopher D. Manning and Nelson F. Liu. 2025. Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models. ArXiv:2506.03989.
+```
+
+```
+@misc{laitenberger2025strongerbaselinesretrievalaugmentedgeneration,
+      title={Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models}, 
+      author={Alex Laitenberger and Christopher D. Manning and Nelson F. Liu},
+      year={2025},
+      eprint={2506.03989},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2506.03989}, 
+}
+```
 
 ## 🛠️ Questions & Contributions
 
